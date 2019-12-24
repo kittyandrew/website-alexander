@@ -1,0 +1,18 @@
+.single-post #adcp-wrapper {
+    position: absolute;
+    top: 0px;
+}
+.single-post .nc_socialPanel.swp_flatFresh.swp_d_fullColor.swp_i_fullColor.swp_o_fullColor.scale-100.scale-fullWidth.swp_one{
+	margin-top:80px !important;
+}
+.single-post .entry-content{
+	position:relative;
+}
+.archive.paged.category .page-header {
+    display: none;
+}
+@media screen and (max-width: 360px){
+#adcp-wrapper {
+    margin: -0.5rem 0 !important;
+}
+}
